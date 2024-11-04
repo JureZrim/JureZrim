@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I’m a doctoral student 🔭, working on the topic of biochar 🌱
+
+
 <!--
 **JureZrim/JureZrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
